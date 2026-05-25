@@ -25,7 +25,7 @@ This chatbot implements a complete RAG pipeline:
 git clone https://github.com/srisesha24/rag-chatbot-goodreads.git
 cd rag-chatbot-goodreads
 ```
-
+Sesha (Individual Submission)
 ### 2. Create Virtual Environment
 ```bash
 python -m venv venv
